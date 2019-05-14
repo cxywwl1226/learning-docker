@@ -1,4 +1,4 @@
-## Install docker
+## Install
 Ubuntu：https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 ## Run
